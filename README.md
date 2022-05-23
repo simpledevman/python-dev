@@ -1,2 +1,3 @@
 # python-dev
-developing python
+developing python untuk pertama kali
+
